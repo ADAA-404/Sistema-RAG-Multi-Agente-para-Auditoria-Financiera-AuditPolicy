@@ -1,6 +1,16 @@
 [Versión en Español](README.md)
 
 # Multi-Agent System for Financial Auditing - AuditPolicy 🛡️
+
+[![Status](https://img.shields.io/badge/Status-COMPLETADO-success?style=for-the-badge)](https://github.com/ADAA-404/Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/ADAA-404/Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy/blob/main/LICENSE)
+<br>
+[![API](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Workflow](https://img.shields.io/badge/Workflow-LangGraph-5868B2?style=for-the-badge&logo=langchain)](https://langchain.dev/)
+[![VectorDB](https://img.shields.io/badge/VectorDB-Chroma-4C81FF?style=for-the-badge&logo=chroma)](https://www.trychroma.com/)
+[![LLM](https://img.shields.io/badge/LLM-Llama_3.1_(Ollama)-F05032?style=for-the-badge&logo=ollama)](https://ollama.com/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-for-the-badge&logo=python)](https://www.python.org/)
+
 This project implements an advanced Retrieval-Augmented Generation (RAG) system designed to answer complex auditing and accounting questions with high fidelity and robustness. It uses a LangGraph Agent architecture to orchestrate a comprehensive quality control workflow, ensuring that responses are strictly based on financial standards documentation (IFRS, IAS, SOX, etc.).
 
 The goal is to demonstrate an enterprise AI solution that prioritizes accuracy, traceability, and backend stability (FastAPI) for potential scalability as required.
