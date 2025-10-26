@@ -13,7 +13,7 @@ El proyecto utiliza un conjunto de documentos normativos y regulatorios comunes 
 Nota de Fidelidad: Las pruebas demuestran que la respuesta directa a consultas altamente específicas (ej. secciones detalladas de SOX o IFRIC) depende de la completitud del corpus de documentos cargados. El VerificationAgent funciona correctamente al marcar la fidelidad como BAJA cuando el contexto es insuficiente, demostrando la trazabilidad del sistema.
 
 ## Tecnologias usadas 🐍
-Este proyecto es una demostración de la ingeniería de backend de IA generativa, utilizando una pila de tecnología robusta de Python:
+Este proyecto es una demostración de la ingeniería de backend de IA generativa, utilizando unas opciones de tecnología robusta de Python:
 
 -   LangGraph & LangChain: Orquestación avanzada del flujo de trabajo multi-agente y gestión del pipeline RAG.
 -   FastAPI: Implementación del backend de la API RESTful de alto rendimiento para servir el servicio RAG.
