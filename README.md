@@ -1,7 +1,7 @@
 # Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy 🛡️
 
 [![Status](https://img.shields.io/badge/Status-COMPLETADO-success?style=for-the-badge)](https://github.com/ADAA-404/Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy)
-[![License](https://img.shields.io/github/license/https://github.com/ADAA-404/Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy?style=for-the-badge)](https://github.com/ADAA-404/Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/ADAA-404/Sistema-RAG-Multi-Agente-para-Auditoria-Financiera-AuditPolicy/blob/main/LICENSE)
 <br>
 [![API](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Workflow](https://img.shields.io/badge/Workflow-LangGraph-5868B2?style=for-the-badge&logo=langchain)](https://langchain.dev/)
